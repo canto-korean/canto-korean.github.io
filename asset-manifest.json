@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "https://canto-korean.github.io/static/css/main.a03066d9.chunk.css",
-    "main.js": "https://canto-korean.github.io/static/js/main.99733ffe.chunk.js",
-    "main.js.map": "https://canto-korean.github.io/static/js/main.99733ffe.chunk.js.map",
+    "main.css": "https://canto-korean.github.io/static/css/main.b60f2ec1.chunk.css",
+    "main.js": "https://canto-korean.github.io/static/js/main.ce7b7e78.chunk.js",
+    "main.js.map": "https://canto-korean.github.io/static/js/main.ce7b7e78.chunk.js.map",
     "runtime-main.js": "https://canto-korean.github.io/static/js/runtime-main.c9b3b9c9.js",
     "runtime-main.js.map": "https://canto-korean.github.io/static/js/runtime-main.c9b3b9c9.js.map",
     "static/css/2.70c372c2.chunk.css": "https://canto-korean.github.io/static/css/2.70c372c2.chunk.css",
@@ -12,14 +12,14 @@
     "static/js/3.a54a1262.chunk.js.map": "https://canto-korean.github.io/static/js/3.a54a1262.chunk.js.map",
     "index.html": "https://canto-korean.github.io/index.html",
     "static/css/2.70c372c2.chunk.css.map": "https://canto-korean.github.io/static/css/2.70c372c2.chunk.css.map",
-    "static/css/main.a03066d9.chunk.css.map": "https://canto-korean.github.io/static/css/main.a03066d9.chunk.css.map",
+    "static/css/main.b60f2ec1.chunk.css.map": "https://canto-korean.github.io/static/css/main.b60f2ec1.chunk.css.map",
     "static/js/2.1fd9a692.chunk.js.LICENSE.txt": "https://canto-korean.github.io/static/js/2.1fd9a692.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.c9b3b9c9.js",
     "static/css/2.70c372c2.chunk.css",
     "static/js/2.1fd9a692.chunk.js",
-    "static/css/main.a03066d9.chunk.css",
-    "static/js/main.99733ffe.chunk.js"
+    "static/css/main.b60f2ec1.chunk.css",
+    "static/js/main.ce7b7e78.chunk.js"
   ]
 }
