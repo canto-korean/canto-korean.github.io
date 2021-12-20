@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://canto-korean.github.io/static/css/main.2104f58d.chunk.css",
-    "main.js": "https://canto-korean.github.io/static/js/main.6c85c839.chunk.js",
-    "main.js.map": "https://canto-korean.github.io/static/js/main.6c85c839.chunk.js.map",
+    "main.js": "https://canto-korean.github.io/static/js/main.544b3a2d.chunk.js",
+    "main.js.map": "https://canto-korean.github.io/static/js/main.544b3a2d.chunk.js.map",
     "runtime-main.js": "https://canto-korean.github.io/static/js/runtime-main.e5305d8a.js",
     "runtime-main.js.map": "https://canto-korean.github.io/static/js/runtime-main.e5305d8a.js.map",
     "static/css/2.70c372c2.chunk.css": "https://canto-korean.github.io/static/css/2.70c372c2.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.70c372c2.chunk.css",
     "static/js/2.73f2255e.chunk.js",
     "static/css/main.2104f58d.chunk.css",
-    "static/js/main.6c85c839.chunk.js"
+    "static/js/main.544b3a2d.chunk.js"
   ]
 }
